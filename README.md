@@ -1,3 +1,3 @@
 # Imdb-movie-recomendation-
 IMDB movie recomendation  by using python. i am using python library like pandas, numpy, matplotlib,seaborn.
-imdp webscrapping by using python library sued pandas,requests,BeautifullSoup.
+imdp webscrapping by using python library used pandas,requests,BeautifullSoup.
